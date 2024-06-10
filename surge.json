@@ -1,0 +1,9 @@
+{
+  "https": {
+    "enabled": true,
+    "redirect": {
+      "from": "http",
+      "to": "https"
+    }
+  }
+}
